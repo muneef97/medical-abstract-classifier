@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+gensim
+torch
+scikit-learn
+matplotlib
+ipywidgets
